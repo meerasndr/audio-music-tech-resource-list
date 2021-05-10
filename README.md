@@ -4,3 +4,5 @@ A dump of software, packages, tools in the audio/music-tech space
 #### Audio Synthesis
 - Supercollider
 - PureData
+- https://notes.ameo.design/fm.html
+- 
